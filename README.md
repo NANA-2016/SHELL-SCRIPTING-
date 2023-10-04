@@ -63,7 +63,7 @@ BacktrickS are used for command substitition  as well as syntax ie '' or $() as 
 
  -  echo command output text to the console
  -  
- -   >output to a file
+   -  >output to a file
 
 -  <input from a file
 

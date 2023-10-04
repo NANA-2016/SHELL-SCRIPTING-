@@ -63,7 +63,7 @@ BacktrickS are used for command substitition  as well as syntax ie '' or $() as 
 
  -  echo command output text to the console
  -  
-   -  >output to a file
+-  output of a file to a file >
 
 -  <input from a file
 
@@ -81,7 +81,28 @@ example declaring the function name follewed by parentesis as demonstrated on th
 
 ![modularise and more reusable code sample](https://github.com/NANA-2016/SHELL-SCRIPTING-/assets/141503408/cc4c0f09-072e-4e74-af84-c1f1404157f3)
 
+## Sample First Script Shell.
 
+First is directory and file creation using the linux commands mkdir and touch commands where after using the nano 
+ 
+ command  the text is copied and by use of keys ctrl x and ctrl y  into the file
+ 
+ We check the file content using the cat command . ls -ll helps us to see the 
+ 
+ rights the user has on the file created There after chmod +x command is
+ 
+ used to give the user the rights to execute the file created hence can easily run the script using the ./file name . sh.
+
+  The directory created here is "shell scripting and the file is user-input.sh"
+
+   The screen shot below provides step to step guide of the shell script and the output of the code run at the end .
+
+   ![first shell script](https://github.com/NANA-2016/SHELL-SCRIPTING-/assets/141503408/7db23853-e210-4a6c-85eb-3615df9fd6f1)
+
+
+   
+
+   
 
 
 

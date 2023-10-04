@@ -20,8 +20,11 @@ written in a file with a .sh extension from the command line or other scripts.
  Alows you to define work in Bash
 
    they can store work in  
+   
 -  Numbers
+-  
 -  strings
+-  
 -  arrays
   
 =  -assigns value to a valuable
@@ -59,6 +62,7 @@ BacktrickS are used for command substitition  as well as syntax ie '' or $() as 
  -  read command to accept user input
 
  -  echo command output text to the console
+ -  
  -   >output to a file
 
 -  <input from a file

@@ -131,9 +131,19 @@ First is directory and file creation using the linux commands mkdir and touch co
  
  .sh file
  
- The screen short below demonstratesthe step by step guide with the output at the end of the screenshot.
+ The screenshot below demonstratesthe step by step guide with the output at the end of the screenshot.
 
  ![fileoperations and sorting](https://github.com/NANA-2016/SHELL-SCRIPTING-/assets/141503408/6cd0edad-9c6f-4307-8a77-6badf4b19022)
+
+## Working with numbers and calculations 
+
+This script demonstrates solving both simple and complex arithmetics. These has been saved in the calculations.sh file 
+
+See the screen shot below.
+
+![numbers and calculations](https://github.com/NANA-2016/SHELL-SCRIPTING-/assets/141503408/d8839efd-4e94-4417-b787-a145b74e31ac)
+
+
 
 
  

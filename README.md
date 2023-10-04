@@ -47,6 +47,36 @@ $  -retrives value from a valuable.
   
 ![for loop](https://github.com/NANA-2016/SHELL-SCRIPTING-/assets/141503408/2a3910e5-223f-4e89-a0c4-3a5d739dfddf)
 
+### Command substitution
+
+BacktrickS are used for command substitition  as well as syntax ie '' or $() as shown below.
+
+![''            $()](https://github.com/NANA-2016/SHELL-SCRIPTING-/assets/141503408/9454f92b-769c-4946-a653-be2cd7614138)
+
+### Input and output
+
+ Some of thw commands used here are :
+ -  read command to accept user input
+
+ -  echo command output text to the console
+ -  > output to a file
+
+-  <input from a file
+
+-  | pipe the output of one command as an input to another .
+
+These has been demonstrated on the screen shot below.
+
+![input output](https://github.com/NANA-2016/SHELL-SCRIPTING-/assets/141503408/4716312c-0bf8-448b-b9bf-8f88ba917235)
+
+
+
+
+
+
+
+
+
  
 
 

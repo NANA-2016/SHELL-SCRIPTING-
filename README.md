@@ -62,7 +62,7 @@ BacktrickS are used for command substitition  as well as syntax ie '' or $() as 
  -  read command to accept user input
 
  -  echo command output text to the console
- -  
+   
 -  output of a file to a file >
 
 -  <input from a file
@@ -99,6 +99,34 @@ First is directory and file creation using the linux commands mkdir and touch co
 
    ![first shell script](https://github.com/NANA-2016/SHELL-SCRIPTING-/assets/141503408/7db23853-e210-4a6c-85eb-3615df9fd6f1)
 
+## Directory Manipulation and Navigation.
+
+ The steps involved here are as listed below 
+
+ - File creation (navigating -linux-file system.sh)
+
+ - Pasting code provided into the file using nano command wher eafter copying the code you save it and exit the editor by
+ 
+ -   use of ctrl x and ctrl y then enter 
+
+ -  Checking file content copied usung the cat command
+
+ - ls -ll helps us be able to know which rightes the usre has not the file
+
+ - Here we finfd the user has no execution rights hence we have to chmod  +x to give him the execution rights
+
+ -  The script is then run ./navigating -linux-file system.sh wher the expected results are shown on the second
+     
+    screenshot.
+
+ ![directory manipulation and navigation 2](https://github.com/NANA-2016/SHELL-SCRIPTING-/assets/141503408/8ed04a68-bb6d-453b-80f1-497618713a3b)
+
+ ![directory manipulation and navigation 1](https://github.com/NANA-2016/SHELL-SCRIPTING-/assets/141503408/b61e80a8-3857-45cd-b74e-47f41ad01be3)
+
+
+
+
+    
 
    
 

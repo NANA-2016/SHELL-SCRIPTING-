@@ -143,6 +143,22 @@ See the screen shot below.
 
 ![numbers and calculations](https://github.com/NANA-2016/SHELL-SCRIPTING-/assets/141503408/d8839efd-4e94-4417-b787-a145b74e31ac)
 
+## File backup and Timestamping .
+
+This gives a code to help backup database  to the directory path and then creates a timestamp using the current date and 
+
+time 
+
+ These has been demonstrated below as underlined too show back up completed and the timestamp.
+ 
+ ![Backup script,](https://github.com/NANA-2016/SHELL-SCRIPTING-/assets/141503408/941a15d4-50d0-4a9b-9ded-bce71a29dbd6)
+
+
+ 
+
+ 
+
+
 
 
 

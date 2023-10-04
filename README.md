@@ -13,6 +13,12 @@ written in a file with a .sh extension from the command line or other scripts.
 
 ![image](https://github.com/NANA-2016/SHELL-SCRIPTING-/assets/141503408/d9a282e9-8bcf-40cb-b00c-d5374b9b7485)
 
+## Shell scripting  Syntax Elements.
+
+1 - Variables
+
+
+
 
 
 

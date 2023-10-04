@@ -151,7 +151,8 @@ time
 
  These has been demonstrated below as underlined too show back up completed and the timestamp.
  
- ![Backup script,](https://github.com/NANA-2016/SHELL-SCRIPTING-/assets/141503408/941a15d4-50d0-4a9b-9ded-bce71a29dbd6)
+![Backup script,](https://github.com/NANA-2016/SHELL-SCRIPTING-/assets/141503408/c0b03c04-aedd-4ba6-9d67-cf9a238edfa3)
+
 
 
  

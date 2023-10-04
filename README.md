@@ -123,6 +123,21 @@ First is directory and file creation using the linux commands mkdir and touch co
 
  ![directory manipulation and navigation 1](https://github.com/NANA-2016/SHELL-SCRIPTING-/assets/141503408/b61e80a8-3857-45cd-b74e-47f41ad01be3)
 
+ ## File operations and sorting 
+
+ the shell script here demonstarates file operations and sorting . this has been carried out using the same steps as the 
+ 
+ previous shell created  the only difference is that we are dealing with a file hence no directory created . ie sorting 
+ 
+ .sh file
+ 
+ The screen short below demonstratesthe step by step guide with the output at the end of the screenshot.
+
+ ![fileoperations and sorting](https://github.com/NANA-2016/SHELL-SCRIPTING-/assets/141503408/6cd0edad-9c6f-4307-8a77-6badf4b19022)
+
+
+ 
+
 
 
 

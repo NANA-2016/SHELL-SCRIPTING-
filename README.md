@@ -59,7 +59,7 @@ BacktrickS are used for command substitition  as well as syntax ie '' or $() as 
  -  read command to accept user input
 
  -  echo command output text to the console
- -  > output to a file
+ -  >output to a file
 
 -  <input from a file
 
@@ -68,6 +68,17 @@ BacktrickS are used for command substitition  as well as syntax ie '' or $() as 
 These has been demonstrated on the screen shot below.
 
 ![input output](https://github.com/NANA-2016/SHELL-SCRIPTING-/assets/141503408/4716312c-0bf8-448b-b9bf-8f88ba917235)
+
+### Function
+
+Usinfg bash, you can carry out these commands which allows you to modularize your code and make it more reusable for 
+
+example declaring the function name follewed by parentesis as demonstrated on the screenshot below.
+
+![modularise and more reusable code sample](https://github.com/NANA-2016/SHELL-SCRIPTING-/assets/141503408/cc4c0f09-072e-4e74-af84-c1f1404157f3)
+
+
+
 
 
 
